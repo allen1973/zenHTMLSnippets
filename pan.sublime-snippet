@@ -1,0 +1,12 @@
+<snippet>
+      <content><![CDATA[
+<ul class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Library</a></li>
+  <li class="active">Data</li>
+</ul>
+    ]]></content>
+    <tabTrigger>pan</tabTrigger>
+    <description>仁breadcrumb</description>
+    <scope>text.html</scope>
+</snippet>

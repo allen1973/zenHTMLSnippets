@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[<!-- ========== part:$1 ==========-->
+    <div class="$1">    
+
+    </div>]]>
+    </content>
+    <tabTrigger>zpart</tabTrigger>
+    <description>仁part div</description>
+    <scope>text.html</scope>
+</snippet>

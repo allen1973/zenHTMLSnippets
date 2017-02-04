@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[<figure>
+    <img src="$1" alt="$2">
+    <figcaption>${3:about this picture}</figcaption>
+</figure>$4]]></content>
+	<tabTrigger>zfig</tabTrigger>
+    <description>仁Figure</description>
+	<scope>text.html</scope>
+</snippet>

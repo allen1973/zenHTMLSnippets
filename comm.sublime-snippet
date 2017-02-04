@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<!-- $1 -->$2]]></content>
+    <tabTrigger>zcomm</tabTrigger>
+    <description>仁Comment</description>
+    <scope>text.html</scope>
+</snippet>

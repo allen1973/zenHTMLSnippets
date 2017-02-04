@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    <form action="demo_keygen.asp" method="get">
+  Username: <input type="text" name="usr_name">
+  Encryption: <keygen name="security">
+  <input type="submit">
+</form>
+]]>
+    </content>
+    <tabTrigger>zkeygen</tabTrigger>
+    <description>仁part div</description>
+    <scope>text.html</scope>
+</snippet>

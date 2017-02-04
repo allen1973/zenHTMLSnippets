@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[<input type="email">$1]]></content>
+	<tabTrigger>zinp</tabTrigger>
+	<description>zenHtm:email</description>
+	<scope>text.html</scope>
+</snippet>

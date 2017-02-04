@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+    <select>
+  <option value="${1:volvo}">${1:volvo}</option>
+  <option value="${2:volvo}">${2:volvo}</option>
+  <option value="${3:volvo}">${3:volvo}</option>
+  <option value="${4:volvo}">${4:volvo}</option>
+</select>
+]]>
+    </content>
+      <tabTrigger>zselect</tabTrigger>
+    <description>仁select</description>
+    <scope>text.html</scope>
+</snippet>

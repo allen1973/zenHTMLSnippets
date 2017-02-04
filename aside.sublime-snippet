@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[<aside>
+  <h4>Epcot Center</h4>
+  <p>The Epcot Center is a theme park in Disney World, Florida.</p>
+</aside>
+]]>
+    </content>
+    <tabTrigger>zaside</tabTrigger>
+    <description>仁aside</description>
+    <scope>text.html</scope>
+</snippet>
+
