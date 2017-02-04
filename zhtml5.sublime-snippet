@@ -1,6 +1,5 @@
 <snippet>
-    <content><![CDATA[
-<!doctype html>
+    <content><![CDATA[<!doctype html>
 <html class="no-js" lang="">
     <head>
         <meta charset="utf-8">
