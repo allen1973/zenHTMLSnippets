@@ -5,8 +5,7 @@
   <source media="(min-width: 465px)" srcset="img_white_flower.jpg">
   <img src="img_orange_flowers.jpg" alt="Flowers" style="width:auto;">
 </picture>
-]]>
-    </content>
+]]></content>
     <tabTrigger>pict</tabTrigger>
     <description>仁picture</description>
     <scope>text.html</scope>
